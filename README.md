@@ -1,6 +1,6 @@
 # sparking-Arduino-4W-Car
 4W Car based on Arduino nano or 328p. The designation is to start a spark for lighting prairie fire.
-![image](https://github.com/Torah/sparking-Arduino-4W-Car/blob/main/The%20Car/3D.png)
+![image](./blob/main/The%20Car/3D.png)
 
 for more detailed description, you can do follow links bellow:
 1. https://maker.lceda.cn/p/torah/zhi-neng-xiao-ju/setting
