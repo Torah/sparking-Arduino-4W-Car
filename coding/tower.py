@@ -1,6 +1,6 @@
-/*
+"""
 基于mixly项目修改引用库和调整控制得到
-*/
+"""
 import sensor
 from Maix import FPIOA,GPIO
 import lcd
